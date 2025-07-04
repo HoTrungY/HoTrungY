@@ -4,14 +4,11 @@ My name is Trung Y. I am a Flutter development intern. I am passionate about bui
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ý-hồ-trung-3a9219340/)
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/HoTrungY)
-[![Youtube](https://github.com/vietnh1009/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/channel/UC66_4puPl1OFS3YAeZ7tRdw)
 
 
 
 
-![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vietnh1009&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
-
-<a href="https://github.com/vietnh1009/QuickDraw/">
+<a href="https://github.com/HoTrungY/foodie_callback_flutter">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=QuickDraw&theme=radical" />
 </a>    
