@@ -3,7 +3,7 @@ My name is Trung Y. I am a Flutter development intern. I am passionate about bui
 ## 📫 How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ý-hồ-trung-3a9219340/)
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/vietnh1009/)
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/HoTrungY)
 [![Youtube](https://github.com/vietnh1009/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/channel/UC66_4puPl1OFS3YAeZ7tRdw)
 
 
