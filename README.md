@@ -10,7 +10,7 @@ My name is Trung Y. I am a Flutter development intern. I am passionate about bui
 
 <a href="https://github.com/HoTrungY/foodie_callback_flutter">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=QuickDraw&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=y_beo2204&repo=Foodie&theme=radical" />
 </a>    
 <a href="https://github.com/vietnh1009/ASCII-generator/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
